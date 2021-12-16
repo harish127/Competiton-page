@@ -69,4 +69,20 @@ nav{
     background-color: white;
     border-radius: 50px;
     height: 800px;
+    box-shadow: 32px 36px 100px 0 rgb(0 0 0 / 8%);
+    color: #0b132a;
+}
+
+.heding-medium{
+    font-size: 32px;
+    text-align: left;
+}
+
+.heding-medium-bold{
+    font-weight: 800;
+    font-size: 38px;
+}
+
+.img-outside{
+    
 }
