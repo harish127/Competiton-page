@@ -20,6 +20,10 @@ nav{
     letter-spacing: .15px;
 }
 
+.limited-ht{
+    height: 700px;
+}
+
  .nav-link{
     color: #667089;
     
@@ -59,4 +63,10 @@ nav{
 
 .spn-text{
     padding-left: 20px;
+}
+
+.boxing{
+    background-color: white;
+    border-radius: 50px;
+    height: 800px;
 }
