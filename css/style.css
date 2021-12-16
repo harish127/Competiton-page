@@ -24,3 +24,12 @@ body{
     color: #3658a1;
     font-weight: 800;
 }
+.hero{
+    background-color: #2c3895;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.big-text{
+    font-size: 36px;
+}
