@@ -43,7 +43,14 @@ nav{
      border-radius: 50px;
      color:white;
      font-weight: 400;
+     height: 60px;
 }
+.btn:hover{
+    background-color: #3644a1;
+    border-color: #3644a1;
+    color: white;
+}
+
 .circle{
     background-color: rgba(0,0,0,.2);
     padding: 5px 10px;
