@@ -1,6 +1,26 @@
 
+body{
+    font-family: "Noto Sans",sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+}
+
 .rightside {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: 15px;
+    font-weight: 400;
+    height: 2.5rem;
+    line-height: 1.4;
+    letter-spacing: .15px;
+}
+
+ .nav-link{
+    color: #667089;
+    
+}
+.nav-link:hover{
+    color: #3658a1;
+    font-weight: 800;
 }
